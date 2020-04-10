@@ -1,4 +1,3 @@
-
 // var numbers = [2,3,5,7,6,9];
 // var output = [];
 
